@@ -1,4 +1,4 @@
-package uk.ac.ed.bikerental;
+//package uk.ac.ed.bikerental;
 
 public class Location {
     private String postcode;
